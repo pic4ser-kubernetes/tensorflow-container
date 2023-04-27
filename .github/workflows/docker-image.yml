@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: pic4ser-kubernetes/pic4ser-python
+  IMAGE_NAME: pic4ser-kubernetes/pic4ser-python-tensorflow
 
 jobs:
   deploy:
